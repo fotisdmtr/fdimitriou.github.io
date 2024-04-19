@@ -1,3 +1,1 @@
 # fdimitriou.github.io
-
-Hello
